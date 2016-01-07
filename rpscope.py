@@ -1,4 +1,4 @@
-"""Provide the device class for charge transformers."""
+"""Red Pitaya scope device server."""
 
 # Imports
 import sys
